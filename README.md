@@ -1,4 +1,4 @@
-# chrome
+## 无法访问外网时安装谷歌插件
 
 #### 1.下载压缩包 
 ![](https://ws2.sinaimg.cn/large/006tNc79ly1flflspxzicj315y0jgjv6.jpg) 
