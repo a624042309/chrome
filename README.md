@@ -1,7 +1,7 @@
 # chrome
 
 #### 1.下载压缩包 
-![setup1](https://ws2.sinaimg.cn/large/006tNc79ly1flflspxzicj315y0jgjv6.jpg) 
+![](https://ws2.sinaimg.cn/large/006tNc79ly1flflspxzicj315y0jgjv6.jpg) 
 
 #### 2.解压 找到.crx文件
 ![](https://ws1.sinaimg.cn/large/006tNc79ly1flflu9tyk3j30hj09paah.jpg)
