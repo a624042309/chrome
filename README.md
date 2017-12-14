@@ -1,4 +1,4 @@
-## 无法访问外网时安装谷歌插件
+## 无法访问外网时安装谷歌插件--广告终结者&油猴子
 
 #### 1.下载压缩包 
 ![](https://ws2.sinaimg.cn/large/006tNc79ly1flflspxzicj315y0jgjv6.jpg) 
